@@ -2,9 +2,9 @@
 
 **Pico Com** is a serial communication terminal project using a Raspberry Pi Pico, an LCD1602 display, a relay, a buzzer, and digital I/O pins to simulate a basic interactive communication system between devices using a text-based protocol. It includes UI feedback via the LCD and buzzer, programmable commands, and page rendering over serial.
 
-![PicoCom Setup 1](IMG_3238%20-%20Copy.HEIC)
-![PicoCom Setup 2](IMG_3239%20-%20Copy.HEIC)
-![PicoCom Demo](IMG_3241%20-%20Copy.MOV)
+![PicoCom Setup 1](/Pictures/IMG_3238%20-%20Copy.HEIC)
+![PicoCom Setup 2](/Pictures/IMG_3239%20-%20Copy.HEIC)
+![PicoCom Demo](/Pictures/IMG_3241%20-%20Copy.MOV)
 
 ---
 
